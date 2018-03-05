@@ -14,4 +14,4 @@ run docker run -it --rm --net=host -v '$(pwd)/data':/data networkboot/dhcpd eth0
 
 use ctrl+c to stop it
 
-start with simply run option to iterate though options
+start with simply run option to iterate through options
